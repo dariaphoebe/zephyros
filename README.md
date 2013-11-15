@@ -4,7 +4,8 @@ Zephyros was a really fun project. I learned a lot, met really cool
 people, and we made a super-flexible window manager together.
 
 But Zephyros is overkill. The "any language" philosophy made for a fun
-toy, but at the cost of simplicity and efficiency.
+toy, but at the cost of simplicity and efficiency. It also means
+adding new features is getting exponentially harder.
 
 So I'm forking Zephyros, as a new app called
 [Phoenix](https://github.com/sdegutis/phoenix).
@@ -14,13 +15,16 @@ over TCP, it will embed a single, lightweight scripting language.
 
 For that role, I'm writing a new language called
 [Beowulf](https://github.com/sdegutis/beowulf). It's a lightweight
-Clojure written in pure Objective-C.
+version of Clojure written in pure Objective-C.
+
+This means Phoenix will have a vastly simplied internal architecture,
+making it much easier to add new features.
 
 All new development will focus on Phoenix and Beowulf. At this moment,
 they're still in alpha. Hackers are invited to join the effort.
 
-No new features will be added to Zephyros, but it will accept pull
-requests for new language adapters.
+I won't be adding new features to Zephyros. But I'll continue to
+accept pull requests for new features and language adapters.
 
 # Zephyros
 
