@@ -43,7 +43,10 @@ accept pull requests for new features and language adapters.
 
 * Current version: **5.2**
 * Requires: OS X 10.9 and up
-* Download: get [.zip file](https://raw.github.com/sdegutis/zephyros/master/Builds/Zephyros-LATEST.app.tar.gz), unzip, right-click app, choose "Open"
+
+#### Install
+
+* Download [Zephyros-LATEST.app.tar.gz](https://raw.github.com/sdegutis/zephyros/master/Builds/Zephyros-LATEST.app.tar.gz), unzip, right-click app, choose "Open"
 
 #### Basics
 
