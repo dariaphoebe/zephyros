@@ -11,17 +11,13 @@ So I'm forking Zephyros, as a new app called
 [Phoenix](https://github.com/sdegutis/phoenix).
 
 Phoenix will have the same API as Zephyros. But instead of scripting
-over TCP, it will embed a single, lightweight scripting language.
-
-For that role, I'm writing a new language called
-[Beowulf](https://github.com/sdegutis/beowulf). It's a lightweight
-version of Clojure written in pure Objective-C.
+over TCP, it will only use embedded JavaScript.
 
 This means Phoenix will have a vastly simplied internal architecture,
 making it much easier to add new features.
 
-All new development will focus on Phoenix and Beowulf. At this moment,
-they're still in alpha. Hackers are invited to join the effort.
+New development will focus on Phoenix, which is now very functional
+but missing much of the API. Hackers are invited to join the effort.
 
 I won't be adding new features to Zephyros. But I'll continue to
 accept pull requests for new features and language adapters.
