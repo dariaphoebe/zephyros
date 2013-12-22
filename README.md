@@ -1,8 +1,6 @@
 ## NOTICE
 
-Zephyros has been kinda-sorta-deprecated-ish in favor of
-[Phoenix](https://github.com/sdegutis/phoenix), a very lightweight
-fork that only uses JavaScript.
+Zephyros is deprecated. See [Phoenix](https://github.com/sdegutis/phoenix), a very lightweight fork that only uses JavaScript.
 
 # Zephyros
 
