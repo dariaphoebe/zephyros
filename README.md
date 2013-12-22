@@ -1,4 +1,4 @@
-## NOTICE
+## Deprecation Notice
 
 Zephyros is deprecated. See [Phoenix](https://github.com/sdegutis/phoenix), a very lightweight fork that only uses JavaScript.
 
