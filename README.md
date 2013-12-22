@@ -1,26 +1,8 @@
-## About the future of Zephyros
+## NOTICE
 
-Zephyros was a really fun project. I learned a lot, met really cool
-people, and we made a super-flexible window manager together.
-
-But Zephyros is overkill. The "any language" philosophy made for a fun
-toy, but at the cost of simplicity and efficiency. It also means
-adding new features is getting exponentially harder.
-
-So I'm forking Zephyros, as a new app called
-[Phoenix](https://github.com/sdegutis/phoenix).
-
-Phoenix will have the same API as Zephyros. But instead of scripting
-over TCP, it will only use embedded JavaScript.
-
-This means Phoenix will have a vastly simplied internal architecture,
-making it much easier to add new features.
-
-New development will focus on Phoenix, which is now very functional
-but missing much of the API. Hackers are invited to join the effort.
-
-I won't be adding new features to Zephyros. But I'll continue to
-accept pull requests for new features and language adapters.
+Zephyros has been kinda-sorta-deprecated-ish in favor of the
+[Phoenix](https://github.com/sdegutis/phoenix) fork, which is much
+more lightweight, and can only be scripted via JavaScript.
 
 # Zephyros
 
